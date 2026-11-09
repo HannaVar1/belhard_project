@@ -1,1 +1,3 @@
-# belhard_project
+## belhard_project
+* Сегментация боевых профилей покемонов
+* Классификация типа и прогноз capture_rate
